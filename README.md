@@ -1,6 +1,2 @@
-# DSA
-### This is a repo which contains my DSA codes.
--  Stacks
--  Queues
--  Trees
--  LL
+# Codeforces Contest Codes
+### This is a repo which contains my Codeforces Contest codes.
